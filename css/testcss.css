@@ -1,3 +1,5 @@
+
+
 body {
   color: #73777B;
   margin: 0;
@@ -150,10 +152,8 @@ height:15%;
   color:#091353;
 }
 
-
-
-
-
-
-
-/*interests HTML CSS*/
+/* NEW ADDITIONS*/
+.firstpara{
+  padding: 5%;
+  width:50%;
+}

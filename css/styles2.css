@@ -1,3 +1,4 @@
+/*PROJECTS HTML CSS*/
 body {
   color: #73777B;
   margin: 0;
@@ -149,11 +150,6 @@ height:15%;
   text-decoration: none;
   color:#091353;
 }
-
-
-
-
-
-
-
-/*interests HTML CSS*/
+.carousel-item{
+    height: 500px;
+}
