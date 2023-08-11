@@ -6,7 +6,7 @@ async function sendMessageToChatGPT(message) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer YOUR_API_KEY',
+            'Authorization': 'Bearer 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',
         },
         body: JSON.stringify({
             messages: [{ role: 'user', content: message }],
